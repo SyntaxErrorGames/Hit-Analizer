@@ -1,0 +1,5 @@
+{
+  "name": "Hit Analyzer",
+  "description": "Analyzes beats and songs, provides statistics, hit potential, structure breakdown, and generates lyrics for beats.",
+  "requestFramePermissions": []
+}
